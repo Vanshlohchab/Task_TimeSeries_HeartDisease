@@ -1,4 +1,4 @@
-# Task 6 – Time Series Forecasting & Heart Disease Prediction
+# Task – Time Series Forecasting & Heart Disease Prediction
 
 ## 1. Time Series Analysis – Sales Forecasting with ARIMA
 - Analyze sales data over time
